@@ -11,4 +11,4 @@ The following image shows the web application's appearance and functionality:
 
 ## Link to Deployed Application
 
-My code is available at https://github.com/buzelixir/semantic_tagging.
+The code for this project is available at https://buzelixir.github.io/semantic_tagging/.

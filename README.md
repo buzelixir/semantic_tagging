@@ -1,7 +1,7 @@
 # Semantic Tagging
 
 ## My Task
-Bootcamp homework assignment number one. The goal is to learn about the aspect of code refactoring that deals with utilizing semantic tagging rather than standard tagging where appropriate.
+The goal in bootcamp homework assignment number one is to begin learning about code refactoring in the context of replacing non-semantic tags with semantic tags where appropriate.
 
 ## Mock-Up
 
